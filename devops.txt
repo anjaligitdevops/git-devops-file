@@ -1,0 +1,32 @@
+1  git --version
+    2  where.exe git
+    3  c:\Program Files\Git\ming64\bin\git.exe --version
+    4  "/c/Program Files/Git/
+    5  ls
+    6  clear
+    7  --version
+    8  clear
+    9  --version
+   10  git --version
+   11  pwd
+   12  path
+   13  git -v
+   14  git branch
+   15  git init .
+   16  git branch
+   17  git init
+   18  git status
+   19  git status
+   20  git commit -m "edited"
+   21  git add .
+   22  git status
+   23  git commit -m "edited"
+   24  git push origin master
+   25  git remote -v
+   26  git remote add origin https://github.com/anjaligitdevops/git-devops-file.git
+   27  git remote -v
+   28  git push origin master
+   29  git push -u origin master
+   30  git pull origin master --allow-unrelated-histories
+   31  git push origin master
+   32  history
